@@ -1,5 +1,5 @@
 function sum_of_Numbers() {
-  let num = 6;
+  let num = 8;
   let sum = 0;
   for (let i = 1; i <= num; i++) {
     sum = sum + i;
